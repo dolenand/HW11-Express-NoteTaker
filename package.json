@@ -1,0 +1,22 @@
+{
+  "name": "hw11-express-notetaker",
+  "version": "1.0.0",
+  "description": "Note Taker application using Node Express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolenand/HW11-Express-NoteTaker.git"
+  },
+  "author": "Andy Dolen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolenand/HW11-Express-NoteTaker/issues"
+  },
+  "homepage": "https://github.com/dolenand/HW11-Express-NoteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
